@@ -1,2 +1,3 @@
 # teachers-repo
 Berkeley J-School New Media class project-2019-spring-semester
+Put an explanation aboutthis project here. Teaching teachers... stories = lessons from students... 
